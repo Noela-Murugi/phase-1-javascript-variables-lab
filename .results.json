@@ -5,29 +5,29 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2022-08-19T18:18:15.450Z",
-    "end": "2022-08-19T18:18:15.879Z",
-    "duration": 429
+    "start": "2022-08-24T11:59:13.036Z",
+    "end": "2022-08-24T11:59:13.466Z",
+    "duration": 430
   },
   "tests": [
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,7 +48,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -59,21 +59,21 @@
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -94,7 +94,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
